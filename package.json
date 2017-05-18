@@ -1,0 +1,26 @@
+{
+  "name": "gulp-pack-static-files",
+  "version": "1.0.0",
+  "description": "只是示例，请根据自己项目需求修改使用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ximan/gulp-pack-static-files.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ximan/gulp-pack-static-files/issues"
+  },
+  "homepage": "https://github.com/ximan/gulp-pack-static-files",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^2.1.2"
+  }
+}
